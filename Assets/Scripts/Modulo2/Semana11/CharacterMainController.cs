@@ -7,7 +7,7 @@ public class CharacterMainController : MonoBehaviour {
 	private bool primerAtaque;
 	private bool segundoAtaque;
 	private bool tercerAtaque;
-	private float vida;
+	public float vida;
 
 	// Use this for initialization
 	void Start () {
